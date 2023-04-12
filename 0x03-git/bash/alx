@@ -1,1 +1,2 @@
-echo HEAD
+echo ["ALX school"]
+HEAD
